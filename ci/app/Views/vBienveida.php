@@ -5,6 +5,8 @@
 </head>
 <body>
 	<a class="button" href="../Home/registro">Registrarse</a>
+	<a class="button" href="../Home/ingreso">Ingresar</a>
+
 <h1>HOLAXD</h1>
 <p>Espacio de prueba para el MVC</p>
 </body>
